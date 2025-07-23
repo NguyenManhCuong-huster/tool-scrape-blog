@@ -1,0 +1,58 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Mô hình hoặc dữ liệu nặng
+model/
+*.h5
+*.pth
+*.pt
+*.onnx
+
+# Cache và log
+*.log
+*.tmp
+*.cache/
+.cache/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# MacOS, Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ChromeDriver nếu tải riêng
+
+driver/
+
+downloadModel.py
+crawlLink.py
+crawl_link_v2 copy.py
+test.py
+extract_key.py
+Minh họa API.txt
+
+export_html.py
+extract_key_word.py
+tranlater.py
+
+.env
+*.json
+*.xlsx
+
+input.txt
+print_tree.py
