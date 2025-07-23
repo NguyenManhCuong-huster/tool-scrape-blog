@@ -12,9 +12,9 @@ https://www.topcv.vn/cau-hoi-phong-van-tieng-trung
 Tile: Top 18 câu hỏi phỏng vấn tiếng Trung thường gặp hiện nay  
 Key chính (chủ đề chính): câu hỏi phỏng vấn tiếng Trung  
 Bước 4: Lọc trùng key, xem key đã được cho timviec365.vn chưa có 2 cách  
-Đọc các bài blog trên site timviec365 để xem chủ đề được viết chưa, API lấy chỗ Bình.  
+Đọc các bài blog trên site timviec365 để xem chủ đề được viết chưa.  
 Bước 5:   
-Tách các chủ để chưa được viết thành 1 file gửi đ.c Phượng  
+Tách các chủ để chưa được viết thành 1 file 
   
 # Nền tảng chạy(Platform)  
 Window x64  
