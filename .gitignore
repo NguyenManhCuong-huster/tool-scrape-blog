@@ -37,22 +37,6 @@ desktop.ini
 
 # ChromeDriver nếu tải riêng
 
-driver/
-
-downloadModel.py
-crawlLink.py
-crawl_link_v2 copy.py
-test.py
-extract_key.py
-Minh họa API.txt
-
-export_html.py
-extract_key_word.py
-tranlater.py
-
 .env
-*.json
-*.xlsx
 
-input.txt
-print_tree.py
+
