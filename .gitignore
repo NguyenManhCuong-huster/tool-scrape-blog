@@ -38,5 +38,6 @@ desktop.ini
 # ChromeDriver nếu tải riêng
 
 .env
+*.xlsx
 
 

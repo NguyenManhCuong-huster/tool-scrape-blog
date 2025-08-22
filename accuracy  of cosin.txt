@@ -1,0 +1,53 @@
+Confusion Matrix:
+ [[TN  FP]
+ [FN TP]]
+
+paraphrase-multilingual-MiniLM-L12-v2
+
+cosin 0.60
+Confusion Matrix:
+ [[362  54]
+ [324 233]]
+Accuracy : 0.612
+Precision: 0.812
+Recall   : 0.418
+F1-score : 0.552
+
+cosin 0.55
+Confusion Matrix:
+ [[406  10]
+ [421 136]]
+Accuracy : 0.557
+Precision: 0.932
+Recall   : 0.244
+F1-score : 0.387
+
+
+all-mpnet-base-v2
+
+cosin 0.55
+Confusion Matrix:
+ [[382  34]
+ [341 216]]
+Accuracy : 0.615
+Precision: 0.864
+Recall   : 0.388
+F1-score : 0.535
+
+cosin 0.50
+Confusion Matrix:
+ [[407   9]
+ [434 123]]
+Accuracy : 0.545
+Precision: 0.932
+Recall   : 0.221
+F1-score : 0.357
+
+cosin 0.45
+Confusion Matrix:
+ [[414   2]
+ [501  56]]
+Accuracy : 0.483
+Precision: 0.966
+Recall   : 0.101
+F1-score : 0.182

@@ -78,7 +78,8 @@ def main():
         print("Lấy keys thành công.")
         """
     save_titles_to_excel(all_raw_titles, "raw.xlsx")
-    
+    remove_duplicate_titles("raw.xlsx")
+    """
     print("Đang lọc title ...")
     filted_titles = filter_title.filter_similar_title(all_raw_titles)
     if filted_titles == []:
@@ -87,6 +88,7 @@ def main():
     save_titles_to_excel(filted_titles)
 
     remove_duplicate_titles("output.xlsx")
+    """
 
     
 if __name__ == "__main__":
